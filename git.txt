@@ -1,0 +1,22 @@
+git init - ініціалізація проекту
+
+git remote get-url origin - перевірка адрес репозиторія
+
+git remote set-url origin https://адреса репозиторія
+
+git status - перевірка
+
+git add name.html - додати один файл вказати шлях до нього
+
+git add . - додати всі файли на репозиторій
+
+git commit -m 'опис'
+git remote add origin https://github.com/dashaWeb/start_gulp.git - посилання на репозиторій
+
+git push -u origin master - додати файли на github
+
+npm i
+
+npm i gulp -g
+
+gulp
